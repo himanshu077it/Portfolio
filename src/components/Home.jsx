@@ -146,9 +146,9 @@ const Portfolio = () => {
   </div>
 </div>
           
-          <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent animate-pulse">
-            Himanshu Chaudhary
-          </h1>
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 pb-3 bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent animate-pulse">
+  Himanshu Chaudhary
+</h1>
           
           <p className="text-xl md:text-2xl text-white/80 mb-8 animate-fade-in-up">
             Full Stack Developer & AI Enthusiast
